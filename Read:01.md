@@ -8,3 +8,6 @@
 
 ## GitHub Markdown Syntax :
 **A list of syntax which can use to style our codes in github ;such as creating heading sizes, styling text and making lists, etc..**
+
+
+[HOME](https://malkhaleel88.github.io/reading-notes)

@@ -1,12 +1,9 @@
-#  Growth Mindset
-**Ability for development and learning and using new skills to gain experiences**.
+## **My name is Mohammad AL-Khaleel and here my first Project** 
 
-![Growth Mindset](https://zurb-dot-com-prod.s3.amazonaws.com/asset/1982/growth-mindset-01.png)
-
-## Characterstics of growth mindset people :
-* Accept challenges
-* Learn from faults
-* Inspiring by success of others
-
-*For further information*
-[Press here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+## **Table of contents**
+| Page Name      | Description |
+| -----------    | ----------- |
+| Article        |  [Growth Mindset](https://malkhaleel88.github.io/reading-notes/Article.md)           |
+| Read:01        |    [Important Topics](https://malkhaleel88.github.io/reading-notes/Read:01.md)          |
+| Read:02        |   [Introduction about Git](https://malkhaleel88.github.io/reading-notes/Read:02.md)           |
+| Read:03        |     [Building Website Using HTML](https://malkhaleel88.github.io/reading-notes/Read:03.md)         |
