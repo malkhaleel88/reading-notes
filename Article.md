@@ -10,3 +10,5 @@
 
 *For further information*
 [Press here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+[HOME](https://malkhaleel88.github.io/reading-notes)
