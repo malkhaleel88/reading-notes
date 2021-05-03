@@ -20,8 +20,8 @@ Image that showing example of Wireframe
 **Anatomy of HTML document**
 ![HTML](https://miro.medium.com/max/880/1*hQquTqhdj2DVCeeKNk-FGA.png)
 
-**Semantics**
 
+## **Semantics**
 *Piece of code which effects our contents ,in HTML there many of them called semantic element such as following:*
 ```
 <article>
@@ -36,3 +36,4 @@ Image that showing example of Wireframe
 ```
 
 [HOME](https://malkhaleel88.github.io/reading-notes)
+
