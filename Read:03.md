@@ -16,10 +16,12 @@ Image that showing example of Wireframe
 
 **Anatomy of elements**
 ![Element](https://frontendfordesigners.com/wp-content/uploads/2020/09/anatomy-of-an-html-element-1.png)
+
 **Anatomy of HTML document**
 ![HTML](https://miro.medium.com/max/880/1*hQquTqhdj2DVCeeKNk-FGA.png)
 
-**Semantics**
+
+## **Semantics**
 
 *Piece of code which effects our contents ,in HTML there many of them called semantic element such as following:*
 <article>
