@@ -23,6 +23,7 @@ Image that showing example of Wireframe
 **Semantics**
 
 *Piece of code which effects our contents ,in HTML there many of them called semantic element such as following:*
+```
 <article>
 <aside>
 <details>
@@ -32,6 +33,6 @@ Image that showing example of Wireframe
 <header>
 <main>
 <mark>
-
+```
 
 [HOME](https://malkhaleel88.github.io/reading-notes)
