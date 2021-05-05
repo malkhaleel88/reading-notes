@@ -8,4 +8,7 @@
 | Read:02        |   [Introduction about Git](https://malkhaleel88.github.io/reading-notes/Read:02)           |
 | Read:03        |     [Building Website Using HTML](https://malkhaleel88.github.io/reading-notes/Read:03)         |
 | Read:03b        |     [Designing Website Using CSS](https://malkhaleel88.github.io/reading-notes/Read:03b)         |
+<<<<<<< HEAD
 | Read:04a       |     [JavaScript Overview](https://malkhaleel88.github.io/reading-notes/Read:04a)         |
+=======
+>>>>>>> 86559d292f5d1b083995a49894b3e542591dec42
