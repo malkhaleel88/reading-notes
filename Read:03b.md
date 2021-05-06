@@ -40,3 +40,5 @@ body {color: #92a8d1;}
 ```
 body {color: rgba(201, 76, 76, 0.6);}
 ```
+
+[HOME](https://malkhaleel88.github.io/reading-notes)

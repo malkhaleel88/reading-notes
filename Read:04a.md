@@ -4,14 +4,14 @@
 
 ## **Operators**
 *There are more types of Operators using in JavaScript:*
-* Assignment operators
-![Assignment operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Assignment-Operators.png)
+* Assignment Operators
+![Assignment Operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Assignment-Operators.png)
 
-* Comparison or Relational operators
-![Relational operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Relational-or-Comparison-Operator.png)
+* Comparison or Relational Operators
+![Relational Operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Relational-or-Comparison-Operator.png)
 
-* Arithmetic operators
-![Arithmetic operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png)
+* Arithmetic Operators
+![Arithmetic Operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png)
 
 ## **Expressions**
 *An expression is any valid unit of code that resolves to a value.*
@@ -25,3 +25,5 @@ if (field==empty) {
     submitForm();
 }
 ```
+
+[HOME](https://malkhaleel88.github.io/reading-notes)
