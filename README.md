@@ -10,3 +10,4 @@
 | Read:03b        |     [Designing Website Using CSS](https://malkhaleel88.github.io/reading-notes/Read:03b)         |
 | Read:04a       |     [JavaScript Overview](https://malkhaleel88.github.io/reading-notes/Read:04a)         |
 | Read:05     |     [Operators and Loops in JavaScript](https://malkhaleel88.github.io/reading-notes/Read:05)         |
+| Read:06    |     [Functions in JavaScript](https://malkhaleel88.github.io/reading-notes/Read:06)         |

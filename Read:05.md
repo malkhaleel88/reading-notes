@@ -14,9 +14,14 @@
 ## **Loops**
 ![Loops](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Loops.jpg)
 
+
 * **'For' Loop**
+
  ![For](https://www.javascripttutorial.net/wp-content/uploads/2020/01/JavaScript-for-Loop.png)
+
+
 * **'While' Loop**
+
  ![While](https://www.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-while-loop.png)
  
 [HOME](https://malkhaleel88.github.io/reading-notes)
