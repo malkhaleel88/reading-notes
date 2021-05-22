@@ -5,7 +5,7 @@
        
 ### **Code 102 Reading Notes**
 
-|  Page Name    |   Description   |
+| **Page Name** | **Description** |
 | -----------   | --------------- |
 | Article       |[Growth Mindset](https://malkhaleel88.github.io/reading-notes/Article)                   |
 | Read:01       |[Important Topics](https://malkhaleel88.github.io/reading-notes/Read:01)                 |
@@ -19,9 +19,10 @@
 
 
 
+
 ### **Code 201 Reading Notes**
 
-|  Page Name    |   Description   |
+| **Page Name** | **Description** |
 | -----------   | --------------- |
 |               |                 |
 |               |                 |
