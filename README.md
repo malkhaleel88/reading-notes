@@ -1,6 +1,10 @@
-## **My name is Mohammad AL-Khaleel and here my first Project** 
+## **My name is Mohammad AL-Khaleel and here my first project**
 
-## **Table of contents**
+### **Tables below includes the title of pages that summarize daily reading notes**
+       
+       
+### **Code 102 Reading Notes**
+
 |  Page Name    |   Description   |
 | -----------   | --------------- |
 | Article       |[Growth Mindset](https://malkhaleel88.github.io/reading-notes/Article)                   |
@@ -12,3 +16,24 @@
 | Read:05       |[Operators and Loops in JavaScript](https://malkhaleel88.github.io/reading-notes/Read:05)|
 | Read:06       |[Functions in JavaScript](https://malkhaleel88.github.io/reading-notes/Read:06)          |
 | Read:09       |[The Coder's Computer](https://malkhaleel88.github.io/reading-notes/Read:09)             |
+
+
+### **Code 201 Reading Notes**
+
+|  Page Name    |   Description   |
+| -----------   | --------------- |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
