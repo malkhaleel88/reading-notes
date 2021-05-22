@@ -24,7 +24,7 @@
 
 | **Page Name** | **Description** |
 | -----------   | --------------- |
-|               |                 |
+| Class-01      |[Introductory HTML and JavaScript](https://malkhaleel88.github.io/reading-notes/Class-01)|
 |               |                 |
 |               |                 |
 |               |                 |
