@@ -19,4 +19,27 @@
 
  *ID and Class are attributes allow you to identify particular elements.
 
- ### **Elements Catagories**
+ ## **Elements Catagories**
+ * Block Elements.
+ * Inline Elements.
+ * Grouping Text & Elements In a Block.
+ * Grouping Text & Elements Inline.
+ * Information Elements "meta".
+
+ ## **HTML5 Layout**
+
+ ![HTML5](https://lh3.googleusercontent.com/proxy/dYQeupQXTLyTg8FgzIo7jUp_a0GB3O5unnzFzfoCuIxG9pczAn5vK-hEj9RIYcf6WW6jijGqNwiX0A4W1BYlPA1kCTCh3Eq6RqKPybNRs91YaLOXXw)
+
+ ## **Process & Design**
+
+![design](https://www.digiayemedia.co.uk/wp-content/uploads/2017/02/DesignProcess-Infographic-1000px.jpg)
+
+## **Introduction in JavaScript**
+*JavaScript is a scripting language used to create and control dynamic website content, i.e. anything that moves, refreshes, or otherwise changes on your screen without requiring you to manually reload a web page.*
+
+*Better to create scripts in ".js" file     seperatly and link it to html file using "script" element.*
+```
+<script src="myscripts.js"></script>
+```
+
+[HOME](https://malkhaleel88.github.io/reading-notes)
