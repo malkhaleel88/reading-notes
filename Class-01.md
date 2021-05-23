@@ -12,4 +12,11 @@
   an element.*
 
   ![Element](https://cdo-curriculum.s3.amazonaws.com/media/uploads/html_element.png)
+  ![Attribute](https://4.bp.blogspot.com/-B5vUzJXNAoE/Vuay2ygsN2I/AAAAAAAAG5o/-qOAVBa3LRkJ0fPWywYzkAcmezRAY2Rxg/s640/html-syntax.png)
 
+*Any HTML code starting with special comment tag "<! DOCTYPE html>" to tell browser  
+ the page using HTML5 version.*
+
+ *ID and Class are attributes allow you to identify particular elements.
+
+ ### **Elements Catagories**
