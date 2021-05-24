@@ -25,8 +25,8 @@
 | **Page Name** | **Description** |
 | -----------   | --------------- |
 | Class-01      |[Introductory HTML and JavaScript](https://malkhaleel88.github.io/reading-notes/Class-01)|
-| Class-02      |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://malkhaleel88.github.io/reading-notes/Class-02)|
-|               |                 |
+| Class-02      |[HTML Text, CSS Introduction and Basic JavaScript Instructions](https://malkhaleel88.github.io/reading-notes/Class-02)|
+| Class-03      |[HTML Lists, CSS Boxes and JS Control Flow](https://malkhaleel88.github.io/reading-notes/Class-03)|
 |               |                 |
 |               |                 |
 |               |                 |

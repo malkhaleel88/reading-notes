@@ -1,7 +1,7 @@
-# **HTML Text, CSS Introduction, and Basic JavaScript Instructions**
+# **HTML Text, CSS Introduction and Basic JavaScript Instructions**
 
 ## **HTML Text**
-*HTML have a special tags that called "markups" which provide extra meaning for the webpage structure*
+*HTML have a special tags that called "markups" which provide extra meaning for the webpage structure.*
 
 **Structural markup**
 *Using for headings and pargraphs*
