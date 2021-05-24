@@ -27,15 +27,15 @@
 | Class-01      |[Introductory HTML and JavaScript](https://malkhaleel88.github.io/reading-notes/Class-01)|
 | Class-02      |[HTML Text, CSS Introduction and Basic JavaScript Instructions](https://malkhaleel88.github.io/reading-notes/Class-02)|
 | Class-03      |[HTML Lists, CSS Boxes and JS Control Flow](https://malkhaleel88.github.io/reading-notes/Class-03)|
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
+| Class-04      | [](https://malkhaleel88.github.io/reading-notes/Class-04)|
+| Class-05      | [](https://malkhaleel88.github.io/reading-notes/Class-05)|
+| Class-06      | [](https://malkhaleel88.github.io/reading-notes/Class-06)|
+| Class-07      | [](https://malkhaleel88.github.io/reading-notes/Class-07)|
+| Class-08      | [](https://malkhaleel88.github.io/reading-notes/Class-08)|
+| Class-09      | [](https://malkhaleel88.github.io/reading-notes/Class-09)|
+| Class-10      | [](https://malkhaleel88.github.io/reading-notes/Class-10)|
+| Class-11      | [](https://malkhaleel88.github.io/reading-notes/Class-11)|
+| Class-12      | [](https://malkhaleel88.github.io/reading-notes/Class-12)|
+| Class-13      | [](https://malkhaleel88.github.io/reading-notes/Class-13)|
+| Class-14      | [](https://malkhaleel88.github.io/reading-notes/Class-14)|
+| Class-15      | [](https://malkhaleel88.github.io/reading-notes/Class-15)|
