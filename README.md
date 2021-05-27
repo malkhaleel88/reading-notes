@@ -28,7 +28,7 @@
 | Class-02      |[HTML Text, CSS Introduction and Basic JavaScript Instructions](https://malkhaleel88.github.io/reading-notes/Class-02)|
 | Class-03      |[HTML Lists, CSS Boxes and JS Control Flow](https://malkhaleel88.github.io/reading-notes/Class-03)|
 | Class-04      |[HTML Links, CSS Layout, JS Functions](https://malkhaleel88.github.io/reading-notes/Class-04)|
-| Class-05      | [](https://malkhaleel88.github.io/reading-notes/Class-05)|
+| Class-05      | [HTML Images; CSS Color & Text](https://malkhaleel88.github.io/reading-notes/Class-05)|
 | Class-06      | [](https://malkhaleel88.github.io/reading-notes/Class-06)|
 | Class-07      | [](https://malkhaleel88.github.io/reading-notes/Class-07)|
 | Class-08      | [](https://malkhaleel88.github.io/reading-notes/Class-08)|
