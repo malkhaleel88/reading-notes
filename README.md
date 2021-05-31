@@ -31,7 +31,7 @@
 | Class-05      | [HTML Images; CSS Color & Text](https://malkhaleel88.github.io/reading-notes/Class-05)|
 | Class-06      | [JS Object Literals; The DOM](https://malkhaleel88.github.io/reading-notes/Class-06)|
 | Class-07      | [HTML Tables; JS Constructor Functions](https://malkhaleel88.github.io/reading-notes/Class-07)|
-| Class-08      | [](https://malkhaleel88.github.io/reading-notes/Class-08)|
+| Class-08      | [More CSS Layout](https://malkhaleel88.github.io/reading-notes/Class-08)|
 | Class-09      | [](https://malkhaleel88.github.io/reading-notes/Class-09)|
 | Class-10      | [](https://malkhaleel88.github.io/reading-notes/Class-10)|
 | Class-11      | [](https://malkhaleel88.github.io/reading-notes/Class-11)|
