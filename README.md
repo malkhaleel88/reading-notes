@@ -33,7 +33,7 @@
 | Class-07      | [HTML Tables; JS Constructor Functions](https://malkhaleel88.github.io/reading-notes/Class-07)|
 | Class-08      | [More CSS Layout](https://malkhaleel88.github.io/reading-notes/Class-08)|
 | Class-09      | [Forms and Events](https://malkhaleel88.github.io/reading-notes/Class-09)|
-| Class-10      | [](https://malkhaleel88.github.io/reading-notes/Class-10)|
+| Class-10      | [JS Debugging](https://malkhaleel88.github.io/reading-notes/Class-10)|
 | Class-11      | [](https://malkhaleel88.github.io/reading-notes/Class-11)|
 | Class-12      | [](https://malkhaleel88.github.io/reading-notes/Class-12)|
 | Class-13      | [](https://malkhaleel88.github.io/reading-notes/Class-13)|
