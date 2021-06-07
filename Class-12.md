@@ -45,5 +45,4 @@ ctx.stroke();
 * Bubble
 
 
-
 [HOME](https://malkhaleel88.github.io/reading-notes)

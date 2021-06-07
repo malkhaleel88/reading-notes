@@ -36,6 +36,6 @@
 | Class-10       | [JS Debugging](https://malkhaleel88.github.io/reading-notes/Class-10)|
 | Class-11       | [Assorted Topics](https://malkhaleel88.github.io/reading-notes/Class-11)|
 | Class-12       | [Docs for the HTML `<canvas>` Element & Chart.js](https://malkhaleel88.github.io/reading-notes/Class-12)|
-| Class-13       | [](https://malkhaleel88.github.io/reading-notes/Class-13)|
+| Class-13       | [Local Storage](https://malkhaleel88.github.io/reading-notes/Class-13)|
 | Class-14       | [](https://malkhaleel88.github.io/reading-notes/Class-14)|
 | Class-15       | [](https://malkhaleel88.github.io/reading-notes/Class-15)|
