@@ -3,7 +3,7 @@
 ### **Tables below includes the title of pages that summarize daily reading notes**
        
        
-### **Code 102 Reading Notes**
+### **Code 102 - Intro to Software Development**
 
 | **Page Name** | **Description** |
 | -----------   | --------------- |
@@ -20,10 +20,10 @@
 
 
 
-### **Code 201 Reading Notes**
+### **Code 201 - Foundations of Software Development**
 
-| **Page Name** | **Description** |
-| -----------   | --------------- |
+| **Page Name**   | **Description** |
+| -----------     | --------------- |
 | Class-01        |[Introductory HTML and JavaScript](https://malkhaleel88.github.io/reading-notes/Class-01)|
 | Class-02        |[HTML Text, CSS Introduction and Basic JavaScript Instructions](https://malkhaleel88.github.io/reading-notes/Class-02)|
 | Class-03        |[HTML Lists, CSS Boxes and JS Control Flow](https://malkhaleel88.github.io/reading-notes/Class-03)|
@@ -39,3 +39,26 @@
 | Class-13        |[Local Storage](https://malkhaleel88.github.io/reading-notes/Class-13)|
 | Class-14a       |[CSS Transforms, Transitions, and Animations](https://malkhaleel88.github.io/reading-notes/Class-14a)|
 | Class-14b       |[What Google Learned About Teams](https://malkhaleel88.github.io/reading-notes/Class-14b)|
+
+
+
+
+### **Code 301 - Intermediate Software Development**
+
+| **Page Name**   | **Description** |
+| -----------     | --------------- |
+| Class-01        |                 |
+| Class-02        |                 |
+| Class-03        |                 |
+| Class-04        |                 |
+| Class-05        |                 |
+| Class-06        |                 |
+| Class-07        |                 |
+| Class-08        |                 |
+| Class-09        |                 |
+| Class-10        |                 |
+| Class-11        |                 |
+| Class-12        |                 |
+| Class-13        |                 |
+| Class-14        |                 |
+| Class-15        |                 |
