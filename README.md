@@ -52,13 +52,12 @@
 | Class-03        |[Passing Functions as Props](https://malkhaleel88.github.io/reading-notes/Reading-03)|
 | Class-04        |[React and Forms](https://malkhaleel88.github.io/reading-notes/Reading-04)|
 | Class-05        |[Putting it all together](https://malkhaleel88.github.io/reading-notes/Reading-05)|
-| Class-06        |                 |
-| Class-07        |                 |
-| Class-08        |                 |
-| Class-09        |                 |
-| Class-10        |                 |
-| Class-11        |                 |
-| Class-12        |                 |
-| Class-13        |                 |
-| Class-14        |                 |
-| Class-15        |                 |
+| Class-06        |[NODE.JS](https://malkhaleel88.github.io/reading-notes/Reading-06)|
+| Class-07        |[REST](https://malkhaleel88.github.io/reading-notes/Reading-07)|
+| Class-08        |[APIs](https://malkhaleel88.github.io/reading-notes/Reading-08)|
+| Class-09        |[FUNCTIONAL PROGRAMMING](https://malkhaleel88.github.io/reading-notes/Reading-09)|
+| Class-10        |[In memory storage](https://malkhaleel88.github.io/reading-notes/Reading-10)|
+| Class-11        |[Authentication](https://malkhaleel88.github.io/reading-notes/Reading-11)|
+| Class-12        |[Mongo and Mongoose](https://malkhaleel88.github.io/reading-notes/Reading-12)|
+| Class-13        |[CRUD](https://malkhaleel88.github.io/reading-notes/Reading-13)|
+| Class-14        |[Diversity & Inclusion in the Tech Industry](https://malkhaleel88.github.io/reading-notes/Reading-14)|
