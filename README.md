@@ -75,7 +75,6 @@
 | Read-04        |[OOP](https://malkhaleel88.github.io/reading-notes/Read-04)|
 | Read-05        |[Linked Lists](https://malkhaleel88.github.io/reading-notes/Read-05)|
 | Read-06        |[Inheritance and Interfaces](https://malkhaleel88.github.io/reading-notes/Read-06)|
-| Read-07        |[Inheritance day 2](https://malkhaleel88.github.io/reading-notes/Read-07)|
 | Read-08        |[OO Design](https://malkhaleel88.github.io/reading-notes/Read-08)|
 | Read-09        |[WRRC and Java](https://malkhaleel88.github.io/reading-notes/Read-09)|
 | Read-10        |[Stacks & Queues](https://malkhaleel88.github.io/reading-notes/Read-10)|
