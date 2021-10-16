@@ -4,9 +4,6 @@
 
 ### **1. Authentication and Access Control**
 
-**Authentication** (who are you?).  
-**Authorization, AKA: Access Control** (what are you allowed to do?).
-
 - **Authentication**  
 The main strategy interface for authentication is **AuthenticationManager**, which has only one method:
 
