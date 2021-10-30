@@ -86,3 +86,8 @@
 | Read-17        |[Spring Authorization](https://malkhaleel88.github.io/reading-notes/Read-17)|
 | Read-18        |[Web App Security](https://malkhaleel88.github.io/reading-notes/Read-18)|
 | Read-19        |[Spring and Sockets](https://malkhaleel88.github.io/reading-notes/Read-19)|
+| Read-26        |[Android Fundamentals](https://malkhaleel88.github.io/reading-notes/Read-26)|
+| Read-27        |[Intents, Activities, and SharedPreferences](https://malkhaleel88.github.io/reading-notes/Read-27)|
+| Read-28        |[RecyclerView](https://malkhaleel88.github.io/reading-notes/Read-28)|
+| Read-29        |[Room](https://malkhaleel88.github.io/reading-notes/Read-29)|
+| Read-30        |[Hash Tables](https://malkhaleel88.github.io/reading-notes/Read-30)|
