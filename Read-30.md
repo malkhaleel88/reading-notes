@@ -19,7 +19,7 @@
 * Hash store values by accepting a key with calculating the value of it, then using modulus, the hash will be converted to an index of an array, finally, storing the key and value by adding them to the end of linked list.
 * The relation between buckets size and the collisions is inverse.
 
-* The Internal Methods: 
+* The Internal Methods:
   * Add()
   * Find()
   * Contains()
