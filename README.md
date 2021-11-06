@@ -92,6 +92,7 @@
 | Read-29        |[Room](https://malkhaleel88.github.io/reading-notes/Read-29)|
 | Read-30        |[Hash Tables](https://malkhaleel88.github.io/reading-notes/Read-30)|
 | Read-31        |[Espresso](https://malkhaleel88.github.io/reading-notes/Read-31)|
-| Read-32        |[Hash Tables](https://malkhaleel88.github.io/reading-notes/Read-32)|
-| Read-33        |[Hash Tables](https://malkhaleel88.github.io/reading-notes/Read-33)|
-| Read-34        |[Hash Tables](https://malkhaleel88.github.io/reading-notes/Read-34)|
+| Read-32        |[Serverless and Amplify](https://malkhaleel88.github.io/reading-notes/Read-32)|
+| Read-33        |[GraphQL @connection](https://malkhaleel88.github.io/reading-notes/Read-33)|
+| Read-34        |[Monetization](https://malkhaleel88.github.io/reading-notes/Read-34)|
+| Read-35        |[Graphs](https://malkhaleel88.github.io/reading-notes/Read-35)|

@@ -47,3 +47,6 @@
 1. Click Run > Record Espresso Test.
 2. In the Select Deployment Target window, choose the device on which you want to record the test.
 3. Espresso Test Recorder triggers a build of your project, and the app must install and launch before Espresso Test Recorder allows you to interact with it.
+
+
+[HOME](https://malkhaleel88.github.io/reading-notes)

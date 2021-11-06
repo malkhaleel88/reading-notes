@@ -60,4 +60,5 @@
     * DAO methods might require you to pass in a variable number of parameters that is not known until runtime.
     * You can use JOIN clauses in your SQL queries to reference more than one table.
 
+
 [HOME](https://malkhaleel88.github.io/reading-notes)
