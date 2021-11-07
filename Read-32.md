@@ -2,7 +2,7 @@
 
 ## **Intro to Serverless**
 
-![Serverless](https://www.simform.com/wp-content/uploads/2017/12/serverless-application-2.png)
+![Serverless](https://miro.medium.com/max/905/1*vzeGt7D9BN1c16Z81zUC5A.png)
 
 ### **What is Serverless Architecture?**
 
