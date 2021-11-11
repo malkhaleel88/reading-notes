@@ -96,3 +96,7 @@
 | Read-33        |[GraphQL @connection](https://malkhaleel88.github.io/reading-notes/Read-33)|
 | Read-34        |[Monetization](https://malkhaleel88.github.io/reading-notes/Read-34)|
 | Read-35        |[Graphs](https://malkhaleel88.github.io/reading-notes/Read-35)|
+| Read-36        |[Cognito](https://malkhaleel88.github.io/reading-notes/Read-36)|
+| Read-37        |[S3](https://malkhaleel88.github.io/reading-notes/Read-37)|
+| Read-38        |[Notifications](https://malkhaleel88.github.io/reading-notes/Read-38)|
+| Read-39        |[Kinesis](https://malkhaleel88.github.io/reading-notes/Read-39)|
