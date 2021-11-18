@@ -100,3 +100,6 @@
 | Read-37        |[S3](https://malkhaleel88.github.io/reading-notes/Read-37)|
 | Read-38        |[Notifications](https://malkhaleel88.github.io/reading-notes/Read-38)|
 | Read-39        |[Kinesis](https://malkhaleel88.github.io/reading-notes/Read-39)|
+| Read-41        |[Intent Filters](https://malkhaleel88.github.io/reading-notes/Read-41)|
+| Read-42a       |[Location](https://malkhaleel88.github.io/reading-notes/Read-42a)|
+| Read-42b       |[Ethics in Tech](https://malkhaleel88.github.io/reading-notes/Read-42b)|
